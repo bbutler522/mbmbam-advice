@@ -11,10 +11,15 @@ We'll keep track of all contributors!
 
 We can host through github pages since we won't need anything too complex.
 
+### Inspiration
+
+http://wonderful.fyi/
+
+
+
 ## Backend
 
 We'll need a way to process transcripts, store them, and have them accessible.
-
 
 
 ## Contributors / Attribution / Credit
